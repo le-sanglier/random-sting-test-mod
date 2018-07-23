@@ -1,0 +1,22 @@
+{
+  "name": "string_module_test",
+  "version": "0.10.0",
+  "description": "Readme test file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le-sanglier/random-sting-test-mod.git"
+  },
+  "author": "Taylor Heinecke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le-sanglier/random-sting-test-mod/issues"
+  },
+  "homepage": "https://github.com/le-sanglier/random-sting-test-mod#readme",
+  "dependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
